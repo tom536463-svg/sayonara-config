@@ -1,13 +1,13 @@
 {
-  "version": "2.4",
+  "version": "2.5",
   "dpi": "480",
+  "fps": "120",
   "graphics": "Smooth",
-  "fps": "High", 
   "shadow": "Off",
   "clean_ram": "true",
   "network_mode": "4G Only",
   "aim_head": "true",
   "aimbot": "true",
   "esp": "true",
-  "notes": "Config Meta OB54 Heroic"
+  "notes": "Config Meta OB54 PlugNPlay - No ADB"
 }
