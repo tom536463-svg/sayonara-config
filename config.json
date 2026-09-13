@@ -1,13 +1,15 @@
 {
-  "version": "2.5",
-  "dpi": "480",
+  "version": "2.7",
+  "server_status": "ONLINE",
+  "connect_ff": true,
   "fps": "120",
+  "refresh_rate": "120Hz",
   "graphics": "Smooth",
   "shadow": "Off",
-  "clean_ram": "true",
+  "clean_ram": true,
   "network_mode": "4G Only",
-  "aim_head": "true",
-  "aimbot": "true",
-  "esp": "true",
-  "notes": "Config Meta OB54 PlugNPlay - No ADB"
+  "aim_head": true,
+  "aimbot": true,
+  "esp": true,
+  "notes": "Config Meta OB54 Ultra Smooth - No ADB"
 }
